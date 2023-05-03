@@ -1,0 +1,21 @@
+#h3{
+font-size: 23px;    
+}
+#lbl1{
+font-size:15px ;
+color:black;    
+}
+.h2{
+font-size: 32px;
+width:100%;
+margin-top: 0px;    
+}
+.footer{
+bottom:0;
+position:fixed;
+text-align:center;
+width:100%;
+background-color: grey;
+font-size:20px;
+line-height: 2;
+}
